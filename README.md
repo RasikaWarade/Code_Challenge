@@ -3,9 +3,9 @@
 #Features
 1. Python and Bottle framework was used to build the API
 
-   To run , first install Bottle framework and then pass the CSV file as argument to the program:
+   To run , first install Bottle framework: $pip install bottle 
    
-   python challenge.py listings.csv
+   and then pass the CSV file as argument to the program:   python challenge.py listings.csv
 
 2. Access the API as below :
 

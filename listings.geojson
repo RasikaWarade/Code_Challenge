@@ -1,0 +1,7764 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  	    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+		"price": 181554,
+        "street": "389 2nd Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.20395,
+          33.45170447
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+		"price": 157020,
+        "street": "566 Walnut Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1581798,
+          33.56874003
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+		"price": 115507,
+        "street": "193 Post Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.880972,
+          33.36746588
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+		"price": 124761,
+        "street": "356 9th Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2015518,
+          33.37885709
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+		"price": 161779,
+        "street": "344 California Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0187036,
+          33.49078497
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 143,
+		"price": 193870,
+        "street": "23 4th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.338766,
+          33.51050558
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 170,
+		"price": 173900,
+        "street": "20 Sutter Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1205155,
+          33.44207664
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 186,
+		"price": 105376,
+        "street": "722 Geary Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0035044,
+          33.48463059
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 228,
+		"price": 145341,
+        "street": "446 7th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1501795,
+          33.38615742
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 277,
+		"price": 147888,
+        "street": "667 9th Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2390
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929483,
+          33.42898248
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 358,
+		"price": 196024,
+        "street": "697 Post Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.899331,
+          33.51642484
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 362,
+		"price": 124587,
+        "street": "383 1st Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1537
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1479881,
+          33.42821765
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 393,
+		"price": 135266,
+        "street": "549 Geary Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9759183,
+          33.54943516
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 396,
+		"price": 166497,
+        "street": "717 Sutter Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0372379,
+          33.50624613
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 436,
+		"price": 197502,
+        "street": "326 Franklin Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1090
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1161492,
+          33.44110402
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 453,
+		"price": 148529,
+        "street": "208 Sutter Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1480
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9882157,
+          33.48104585
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 454,
+		"price": 121774,
+        "street": "455 Page St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0941725,
+          33.42878667
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 463,
+		"price": 127538,
+        "street": "788 Sutter Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.000021,
+          33.38115336
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 471,
+		"price": 182122,
+        "street": "16 Euclid Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1705712,
+          33.57094887
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 479,
+		"price": 116864,
+        "street": "374 8th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3032278,
+          33.40508223
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 482,
+		"price": 157789,
+        "street": "136 Geary Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1548588,
+          33.44398275
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 544,
+		"price": 101036,
+        "street": "119 Indiana Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0279676,
+          33.36623366
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 545,
+		"price": 197537,
+        "street": "60 Euclid Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2241732,
+          33.57134028
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 548,
+		"price": 195095,
+        "street": "631 3rd Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1580473,
+          33.54000713
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 588,
+		"price": 128209,
+        "street": "367 California Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1109903,
+          33.46136353
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 664,
+		"price": 165770,
+        "street": "771 3rd Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9053724,
+          33.47419418
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 696,
+		"price": 198167,
+        "street": "737 Indiana Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0260847,
+          33.40157201
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 703,
+		"price": 133612,
+        "street": "228 8th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2080226,
+          33.53680938
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 726,
+		"price": 127756,
+        "street": "574 Geary Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2787
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0172703,
+          33.54536071
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 742,
+		"price": 110617,
+        "street": "639 Sutter Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3032
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2797781,
+          33.44324678
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 755,
+		"price": 167000,
+        "street": "111 Euclid Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0037433,
+          33.36979109
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 796,
+		"price": 100428,
+        "street": "426 8th Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1308303,
+          33.38031188
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 846,
+		"price": 141141,
+        "street": "424 Walnut Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3490
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1894842,
+          33.38187208
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 868,
+		"price": 172914,
+        "street": "118 Mission Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2865
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1709893,
+          33.56818017
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 886,
+		"price": 160219,
+        "street": "16 Turk Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.338903,
+          33.47131931
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 893,
+		"price": 113190,
+        "street": "15 5th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1880781,
+          33.43279441
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 956,
+		"price": 113111,
+        "street": "672 Blake Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9810249,
+          33.40002206
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 966,
+		"price": 154052,
+        "street": "112 1st Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9737779,
+          33.5718071
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 976,
+		"price": 111170,
+        "street": "278 Walnut Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0690594,
+          33.38600269
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 979,
+		"price": 161044,
+        "street": "274 Walnut Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0681681,
+          33.5777634
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 994,
+		"price": 137547,
+        "street": "576 Franklin Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1088821,
+          33.44873028
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1020,
+		"price": 125639,
+        "street": "307 4th Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0920007,
+          33.47965598
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1021,
+		"price": 128853,
+        "street": "439 Pine Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9183939,
+          33.39494226
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1028,
+		"price": 115393,
+        "street": "379 7th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3186748,
+          33.375294
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1056,
+		"price": 107255,
+        "street": "85 Euclid Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3680
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2395463,
+          33.41664347
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1095,
+		"price": 176170,
+        "street": "157 Page Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2100349,
+          33.48339238
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1104,
+		"price": 115995,
+        "street": "392 Wall Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0905541,
+          33.51922012
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1107,
+		"price": 168009,
+        "street": "533 Wall Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2772555,
+          33.56868661
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1137,
+		"price": 141836,
+        "street": "240 California Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2337993,
+          33.48937548
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1213,
+		"price": 130159,
+        "street": "563 Walnut Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0177773,
+          33.53924292
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1226,
+		"price": 110872,
+        "street": "442 1st Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1942
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.038019,
+          33.43785986
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1243,
+		"price": 196307,
+        "street": "685 5th Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1183982,
+          33.48658346
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1250,
+		"price": 107289,
+        "street": "699 Walnut Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9013376,
+          33.44298222
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1283,
+		"price": 123691,
+        "street": "788 1st Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3175959,
+          33.56664096
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1299,
+		"price": 197486,
+        "street": "576 Texas Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1092556,
+          33.45770384
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1312,
+		"price": 192032,
+        "street": "710 Walnut Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1741267,
+          33.38108082
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1337,
+		"price": 147239,
+        "street": "533 2nd Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0560764,
+          33.38739289
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1357,
+		"price": 134983,
+        "street": "42 Page Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1689268,
+          33.45599614
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1390,
+		"price": 169883,
+        "street": "202 4th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2546
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2591843,
+          33.58858166
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1391,
+		"price": 155198,
+        "street": "599 Blake Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.911352,
+          33.46948955
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1430,
+		"price": 148611,
+        "street": "430 6th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8903917,
+          33.43741064
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1453,
+		"price": 119115,
+        "street": "78 Indiana Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0506001,
+          33.42017607
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1493,
+		"price": 176680,
+        "street": "296 8th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2165836,
+          33.59112947
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1535,
+		"price": 167972,
+        "street": "556 5th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2247714,
+          33.55794905
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1555,
+		"price": 186129,
+        "street": "458 Euclid Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9042263,
+          33.5274426
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1564,
+		"price": 195342,
+        "street": "187 Geary Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9726364,
+          33.42963306
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1573,
+		"price": 121647,
+        "street": "354 Post Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1143102,
+          33.41117441
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1581,
+		"price": 113046,
+        "street": "361 Texas Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2425361,
+          33.39035109
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1623,
+		"price": 171569,
+        "street": "417 9th Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0533599,
+          33.4807171
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1701,
+		"price": 163746,
+        "street": "186 Geary Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9240441,
+          33.42231102
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1726,
+		"price": 113169,
+        "street": "516 1st Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9161948,
+          33.39663532
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1746,
+		"price": 109775,
+        "street": "290 9th Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0516411,
+          33.37096442
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1754,
+		"price": 111997,
+        "street": "204 8th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9157081,
+          33.53861547
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1785,
+		"price": 138395,
+        "street": "707 California Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3056475,
+          33.36819635
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1789,
+		"price": 147210,
+        "street": "792 Post Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2506006,
+          33.36199444
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1810,
+		"price": 158759,
+        "street": "94 2nd Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2942578,
+          33.43504146
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1812,
+		"price": 188623,
+        "street": "741 1st St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3659
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3599844,
+          33.58253864
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1813,
+		"price": 164226,
+        "street": "322 9th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9741526,
+          33.36477519
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1858,
+		"price": 104709,
+        "street": "302 Franklin Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3517793,
+          33.5645263
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1875,
+		"price": 171090,
+        "street": "782 Walnut Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9369097,
+          33.54665539
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1880,
+		"price": 136832,
+        "street": "263 Franklin Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3221685,
+          33.52779339
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1883,
+		"price": 181020,
+        "street": "63 4th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1976035,
+          33.40712972
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1973,
+		"price": 175123,
+        "street": "107 1st Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3250624,
+          33.44753259
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1976,
+		"price": 144470,
+        "street": "649 Blake Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3070
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2845552,
+          33.46588614
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1984,
+		"price": 104282,
+        "street": "596 9th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2589
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0553243,
+          33.45763203
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 1986,
+		"price": 185194,
+        "street": "49 Texas St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9498205,
+          33.5322977
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2017,
+		"price": 149134,
+        "street": "728 Indiana Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1790301,
+          33.48340854
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2028,
+		"price": 133977,
+        "street": "39 Blake Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0623004,
+          33.58171689
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2059,
+		"price": 179178,
+        "street": "242 6th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9785089,
+          33.46082303
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2096,
+		"price": 194762,
+        "street": "633 Post Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3194426,
+          33.54446886
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2115,
+		"price": 127773,
+        "street": "414 Walnut St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9873016,
+          33.49615413
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2123,
+		"price": 174335,
+        "street": "322 Euclid Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1589
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0492702,
+          33.58555452
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2138,
+		"price": 153246,
+        "street": "700 5th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0580676,
+          33.50903364
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2167,
+		"price": 162253,
+        "street": "82 3rd Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9567652,
+          33.51710459
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2212,
+		"price": 126827,
+        "street": "546 Page Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2596933,
+          33.38450731
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2226,
+		"price": 141739,
+        "street": "576 7th Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0125771,
+          33.48034355
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2264,
+		"price": 198333,
+        "street": "141 Wall St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.156168,
+          33.59292923
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2274,
+		"price": 153084,
+        "street": "67 Pine Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1207788,
+          33.58363975
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2280,
+		"price": 199603,
+        "street": "277 Walnut Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0023071,
+          33.42746173
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2282,
+		"price": 157671,
+        "street": "486 Walnut Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0404322,
+          33.37892654
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2347,
+		"price": 141326,
+        "street": "395 Mission Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0216171,
+          33.40534178
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2359,
+		"price": 141377,
+        "street": "543 7th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2305891,
+          33.58457134
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2386,
+		"price": 178308,
+        "street": "755 9th Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0951867,
+          33.52818874
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2389,
+		"price": 171157,
+        "street": "139 California St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1029599,
+          33.55981656
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2399,
+		"price": 107529,
+        "street": "541 Indiana Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8784048,
+          33.38278957
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2422,
+		"price": 102044,
+        "street": "531 9th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9383186,
+          33.49401069
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2432,
+		"price": 113204,
+        "street": "475 1st Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2084674,
+          33.54347723
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2451,
+		"price": 123728,
+        "street": "695 Bush Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0144122,
+          33.37633251
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2457,
+		"price": 141119,
+        "street": "784 4th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1666997,
+          33.57350961
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2465,
+		"price": 124671,
+        "street": "425 Page Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3457365,
+          33.5790967
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2488,
+		"price": 142894,
+        "street": "132 California St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1532112,
+          33.48020902
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2539,
+		"price": 152695,
+        "street": "556 Page Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9110887,
+          33.49819213
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2547,
+		"price": 148019,
+        "street": "153 Post Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2850629,
+          33.49662806
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2583,
+		"price": 147755,
+        "street": "423 5th Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1674
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3329961,
+          33.37545826
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2585,
+		"price": 107922,
+        "street": "105 Sutter Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9640451,
+          33.57578709
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2587,
+		"price": 173520,
+        "street": "231 7th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3186075,
+          33.55800544
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2589,
+		"price": 162077,
+        "street": "450 California Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9932891,
+          33.50398704
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2635,
+		"price": 144083,
+        "street": "271 Blake Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2462806,
+          33.57257209
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2645,
+		"price": 181146,
+        "street": "11 Page Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2249374,
+          33.4769565
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2648,
+		"price": 191356,
+        "street": "615 Indiana Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0112065,
+          33.36726975
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2686,
+		"price": 192747,
+        "street": "325 Bush Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8805283,
+          33.40391887
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2699,
+		"price": 187862,
+        "street": "15 Page Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0501519,
+          33.51125764
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2730,
+		"price": 186396,
+        "street": "324 Pine St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3377018,
+          33.41901127
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2731,
+		"price": 129788,
+        "street": "33 Wall Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2940
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3203666,
+          33.46373487
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2734,
+		"price": 121685,
+        "street": "225 Indiana Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9225449,
+          33.5295021
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2736,
+		"price": 190093,
+        "street": "129 Franklin Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1910
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.036526,
+          33.58159214
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2765,
+		"price": 100369,
+        "street": "667 4th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1080
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9346812,
+          33.40112225
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2776,
+		"price": 169239,
+        "street": "179 Mission Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0968581,
+          33.37923073
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2798,
+		"price": 139195,
+        "street": "412 Bush Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9435577,
+          33.37154262
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2824,
+		"price": 177927,
+        "street": "348 8th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2446013,
+          33.52171526
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2825,
+		"price": 167852,
+        "street": "674 Franklin Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0438627,
+          33.42569236
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2853,
+		"price": 104242,
+        "street": "706 Indiana Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0349117,
+          33.59029065
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2892,
+		"price": 178158,
+        "street": "198 Page Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9001501,
+          33.44843653
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2896,
+		"price": 168605,
+        "street": "519 6th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9379899,
+          33.5147769
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2899,
+		"price": 181224,
+        "street": "296 Texas St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8936729,
+          33.57396291
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2930,
+		"price": 129704,
+        "street": "599 6th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9687172,
+          33.38080527
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2939,
+		"price": 114966,
+        "street": "387 Page Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9935669,
+          33.42238637
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2953,
+		"price": 187075,
+        "street": "466 1st Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.339122,
+          33.38673862
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 2966,
+		"price": 147300,
+        "street": "360 Wall Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9143123,
+          33.45528589
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3012,
+		"price": 163552,
+        "street": "428 5th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2729
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0267672,
+          33.36459714
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3022,
+		"price": 163294,
+        "street": "482 California Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3380
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2657603,
+          33.44271951
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3050,
+		"price": 116479,
+        "street": "509 Blake Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.317997,
+          33.47634254
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3102,
+		"price": 102682,
+        "street": "208 Page Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9745814,
+          33.41230606
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3230,
+		"price": 171792,
+        "street": "64 Geary Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1880
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.217871,
+          33.45448338
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3231,
+		"price": 133136,
+        "street": "687 Euclid Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1703325,
+          33.49626767
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3261,
+		"price": 160372,
+        "street": "36 7th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0237214,
+          33.54741726
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3267,
+		"price": 134968,
+        "street": "122 3rd Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.168894,
+          33.59057774
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3268,
+		"price": 149395,
+        "street": "375 Euclid Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3614224,
+          33.396864
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3285,
+		"price": 155345,
+        "street": "224 Euclid Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0510743,
+          33.48118024
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3314,
+		"price": 135245,
+        "street": "694 Geary Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0939851,
+          33.47399404
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3335,
+		"price": 139133,
+        "street": "635 California Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2518159,
+          33.43602737
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3369,
+		"price": 184498,
+        "street": "670 5th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9884353,
+          33.46737132
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3385,
+		"price": 158776,
+        "street": "291 3rd Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1768176,
+          33.53793661
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3397,
+		"price": 151829,
+        "street": "713 Geary St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2900607,
+          33.43324712
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3412,
+		"price": 149593,
+        "street": "401 Post Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2004114,
+          33.48093848
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3429,
+		"price": 156384,
+        "street": "151 4th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8765883,
+          33.36971659
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3442,
+		"price": 123491,
+        "street": "201 5th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1614497,
+          33.46195964
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3461,
+		"price": 151747,
+        "street": "114 Bush Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9725674,
+          33.50999612
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3502,
+		"price": 155722,
+        "street": "633 Bush Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0054941,
+          33.5232136
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3516,
+		"price": 121219,
+        "street": "415 9th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3530688,
+          33.46344904
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3542,
+		"price": 163356,
+        "street": "273 5th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.227578,
+          33.37197731
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3553,
+		"price": 176286,
+        "street": "29 1st Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9601544,
+          33.36751258
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3573,
+		"price": 194633,
+        "street": "508 2nd Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3281171,
+          33.44084785
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3589,
+		"price": 126690,
+        "street": "141 Blake Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.110655,
+          33.45677809
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3611,
+		"price": 101910,
+        "street": "760 8th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1663
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1316908,
+          33.52069004
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3665,
+		"price": 128585,
+        "street": "61 9th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1429
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.19667,
+          33.56482225
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3666,
+		"price": 186094,
+        "street": "471 Geary Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8844869,
+          33.45762183
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3672,
+		"price": 198618,
+        "street": "409 Euclid Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2469219,
+          33.5212602
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3683,
+		"price": 116057,
+        "street": "240 Post Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1547514,
+          33.5790569
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3726,
+		"price": 100715,
+        "street": "474 Franklin Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2491
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9144768,
+          33.50673721
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3736,
+		"price": 106854,
+        "street": "415 Turk St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1327198,
+          33.58400802
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3751,
+		"price": 182247,
+        "street": "562 Post Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2451
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0636189,
+          33.41086879
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3753,
+		"price": 122322,
+        "street": "404 Blake Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8928875,
+          33.57200918
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3760,
+		"price": 183320,
+        "street": "91 Blake St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1307745,
+          33.47103189
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3769,
+		"price": 156160,
+        "street": "235 5th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2819038,
+          33.561039
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3775,
+		"price": 119675,
+        "street": "288 1st Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2513153,
+          33.59227788
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3788,
+		"price": 101708,
+        "street": "598 Mission Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1361912,
+          33.50910675
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3800,
+		"price": 186580,
+        "street": "459 Indiana Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1222917,
+          33.52833053
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3819,
+		"price": 172511,
+        "street": "636 Geary Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0623548,
+          33.49248651
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3922,
+		"price": 174394,
+        "street": "39 8th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3447759,
+          33.37679777
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3951,
+		"price": 198994,
+        "street": "159 California Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.267644,
+          33.49384662
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3958,
+		"price": 100348,
+        "street": "123 Franklin Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1805266,
+          33.58874292
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3960,
+		"price": 142500,
+        "street": "230 4th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9139043,
+          33.39779768
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3982,
+		"price": 113110,
+        "street": "405 Geary St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0350029,
+          33.57493009
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3987,
+		"price": 148057,
+        "street": "269 9th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1676
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3291189,
+          33.4315742
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 3999,
+		"price": 161339,
+        "street": "93 Texas Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9193076,
+          33.39832902
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4010,
+		"price": 154088,
+        "street": "403 California Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0866466,
+          33.58443051
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4019,
+		"price": 133508,
+        "street": "241 Pine Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2001427,
+          33.51149717
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4043,
+		"price": 188573,
+        "street": "788 Wall Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3028
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2775032,
+          33.37444516
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4132,
+		"price": 179493,
+        "street": "403 Wall Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3950
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2780802,
+          33.50897531
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4169,
+		"price": 127899,
+        "street": "730 Bush Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.257352,
+          33.59123367
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4228,
+		"price": 163014,
+        "street": "497 Euclid St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1900
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2395115,
+          33.43788291
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4264,
+		"price": 140784,
+        "street": "692 Turk Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2689437,
+          33.40926846
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4313,
+		"price": 186405,
+        "street": "512 Blake Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9740801,
+          33.59375415
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4347,
+		"price": 198396,
+        "street": "270 Texas St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9111427,
+          33.42949542
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4359,
+		"price": 122697,
+        "street": "501 Pine Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9482796,
+          33.397943
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4367,
+		"price": 184507,
+        "street": "55 Indiana Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3377275,
+          33.36806954
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4378,
+		"price": 121659,
+        "street": "488 Indiana Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0270531,
+          33.45572133
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4431,
+		"price": 152462,
+        "street": "167 California Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3083904,
+          33.57994186
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4460,
+		"price": 142158,
+        "street": "405 Walnut Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2460629,
+          33.58653637
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4470,
+		"price": 103010,
+        "street": "24 Wall Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8925982,
+          33.55405092
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4485,
+		"price": 195443,
+        "street": "17 6th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2922922,
+          33.56313288
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4515,
+		"price": 138503,
+        "street": "601 California Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9608103,
+          33.4169587
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4529,
+		"price": 107202,
+        "street": "239 California Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1910
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9416157,
+          33.43436187
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4564,
+		"price": 168402,
+        "street": "346 Franklin Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2047889,
+          33.53972648
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4593,
+		"price": 196992,
+        "street": "67 4th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8930204,
+          33.48053878
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4594,
+		"price": 156354,
+        "street": "601 Indiana Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2571791,
+          33.56245921
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4616,
+		"price": 150533,
+        "street": "680 1st Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2208087,
+          33.39124622
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4621,
+		"price": 166969,
+        "street": "262 9th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8959376,
+          33.49775348
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4634,
+		"price": 158077,
+        "street": "300 1st Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.293483,
+          33.39353521
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4645,
+		"price": 110286,
+        "street": "369 3rd Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3910
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2962455,
+          33.4225586
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4647,
+		"price": 157786,
+        "street": "544 6th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1541145,
+          33.40449752
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4680,
+		"price": 177518,
+        "street": "109 9th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1325893,
+          33.56892515
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4696,
+		"price": 100595,
+        "street": "694 2nd Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.02541,
+          33.4497816
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4697,
+		"price": 162340,
+        "street": "271 Mission Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9091043,
+          33.54531559
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4700,
+		"price": 164454,
+        "street": "271 9th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2041051,
+          33.48847103
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4711,
+		"price": 199616,
+        "street": "796 Indiana Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1483117,
+          33.57761451
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4718,
+		"price": 123089,
+        "street": "125 Turk Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1548819,
+          33.40134702
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4724,
+		"price": 120908,
+        "street": "695 California Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0765,
+          33.54305432
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4734,
+		"price": 189979,
+        "street": "329 3rd Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2390
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3207177,
+          33.51109622
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4786,
+		"price": 156890,
+        "street": "256 California Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2752564,
+          33.36464182
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4804,
+		"price": 122819,
+        "street": "43 Page St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1772243,
+          33.46674702
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4862,
+		"price": 171934,
+        "street": "21 Pine Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9772042,
+          33.4439519
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4873,
+		"price": 155596,
+        "street": "731 5th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0702218,
+          33.39723814
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4894,
+		"price": 178875,
+        "street": "244 4th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.183603,
+          33.4795014
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4895,
+		"price": 132261,
+        "street": "629 5th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2368421,
+          33.53294459
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4919,
+		"price": 132559,
+        "street": "456 Indiana Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8957713,
+          33.36549149
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4934,
+		"price": 100523,
+        "street": "565 Euclid Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3432245,
+          33.56567325
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 4968,
+		"price": 184270,
+        "street": "769 3rd Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1865
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2374981,
+          33.53625813
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5021,
+		"price": 168540,
+        "street": "117 1st Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.06676,
+          33.51129125
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5023,
+		"price": 175633,
+        "street": "286 Page Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2985692,
+          33.58451018
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5135,
+		"price": 181393,
+        "street": "678 Pine Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8925889,
+          33.59071522
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5166,
+		"price": 176130,
+        "street": "122 Turk Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0582279,
+          33.39026468
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5169,
+		"price": 140174,
+        "street": "31 Texas St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3657
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.16245,
+          33.48915748
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5183,
+		"price": 155641,
+        "street": "493 Pine Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3560007,
+          33.52332993
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5235,
+		"price": 134818,
+        "street": "94 Turk Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9091857,
+          33.47034944
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5240,
+		"price": 175776,
+        "street": "777 Franklin Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8920995,
+          33.50328993
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5266,
+		"price": 187576,
+        "street": "632 Texas Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1312467,
+          33.38309374
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5275,
+		"price": 199365,
+        "street": "477 Indiana Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2113423,
+          33.53257623
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5340,
+		"price": 152641,
+        "street": "307 Turk Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0484098,
+          33.47684338
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5350,
+		"price": 198908,
+        "street": "704 Blake Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2417779,
+          33.48252921
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5385,
+		"price": 146647,
+        "street": "332 1st St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2787
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3004959,
+          33.52608891
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5423,
+		"price": 133798,
+        "street": "336 4th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8732948,
+          33.51796909
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5424,
+		"price": 133056,
+        "street": "238 8th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0128695,
+          33.53116192
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5433,
+		"price": 168323,
+        "street": "24 Euclid Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0749234,
+          33.51589711
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5441,
+		"price": 160409,
+        "street": "293 California Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2709817,
+          33.59385591
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5501,
+		"price": 182329,
+        "street": "305 Post Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0264472,
+          33.44015907
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5521,
+		"price": 167589,
+        "street": "173 4th Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2371818,
+          33.4428137
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5556,
+		"price": 170590,
+        "street": "663 Page Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3159741,
+          33.36299816
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5565,
+		"price": 120178,
+        "street": "350 6th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1082
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0879583,
+          33.37514974
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5568,
+		"price": 154351,
+        "street": "86 7th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1365375,
+          33.56381226
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5627,
+		"price": 135448,
+        "street": "451 Wall Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0318223,
+          33.48294001
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5662,
+		"price": 167249,
+        "street": "740 6th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2690
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1788328,
+          33.37912547
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5715,
+		"price": 184077,
+        "street": "273 Post Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.978071,
+          33.53188381
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5742,
+		"price": 175533,
+        "street": "761 Wall Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0983905,
+          33.42901761
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5860,
+		"price": 142893,
+        "street": "790 8th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9711602,
+          33.59386606
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5876,
+		"price": 161903,
+        "street": "78 Post Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9453953,
+          33.42456661
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5882,
+		"price": 116177,
+        "street": "284 Turk Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9524731,
+          33.37952544
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5922,
+		"price": 143823,
+        "street": "531 Wall Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9645656,
+          33.36921371
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5978,
+		"price": 139009,
+        "street": "189 5th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1657
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2768706,
+          33.56412679
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5980,
+		"price": 133291,
+        "street": "791 3rd Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0361546,
+          33.50195433
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 5982,
+		"price": 188679,
+        "street": "455 2nd Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.946909,
+          33.56533759
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6003,
+		"price": 194197,
+        "street": "678 6th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8723079,
+          33.4589766
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6010,
+		"price": 154164,
+        "street": "448 7th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3372356,
+          33.45211167
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6049,
+		"price": 125650,
+        "street": "779 Mission Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2299984,
+          33.41973436
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6150,
+		"price": 167476,
+        "street": "457 9th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0071852,
+          33.55036592
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6157,
+		"price": 171601,
+        "street": "411 Indiana Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9991756,
+          33.45942852
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6168,
+		"price": 146969,
+        "street": "635 Blake Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0980406,
+          33.43182808
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6195,
+		"price": 153780,
+        "street": "470 3rd Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2797074,
+          33.45689582
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6215,
+		"price": 165944,
+        "street": "482 Page Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0596917,
+          33.53007369
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6228,
+		"price": 187767,
+        "street": "22 Post Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2088062,
+          33.57992026
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6246,
+		"price": 145982,
+        "street": "658 4th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1700448,
+          33.40368945
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6248,
+		"price": 115662,
+        "street": "53 Blake Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1537
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3590154,
+          33.51060103
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6332,
+		"price": 159014,
+        "street": "780 Texas Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9019336,
+          33.55376824
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6354,
+		"price": 115555,
+        "street": "549 2nd Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1613207,
+          33.38450425
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6391,
+		"price": 142518,
+        "street": "611 Blake Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3337983,
+          33.51134684
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6406,
+		"price": 168162,
+        "street": "316 Franklin Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0769406,
+          33.48132768
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6427,
+		"price": 144740,
+        "street": "417 Walnut Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2516206,
+          33.56530374
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6510,
+		"price": 111847,
+        "street": "133 8th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0378249,
+          33.38813282
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6528,
+		"price": 120616,
+        "street": "404 9th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3539281,
+          33.57522949
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6535,
+		"price": 153860,
+        "street": "125 Euclid Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2263647,
+          33.51621299
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6547,
+		"price": 112665,
+        "street": "704 Geary Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8974964,
+          33.46596846
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6563,
+		"price": 192269,
+        "street": "719 Franklin Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2895491,
+          33.39732599
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6567,
+		"price": 120790,
+        "street": "574 7th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1117849,
+          33.44676807
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6577,
+		"price": 122667,
+        "street": "449 Franklin Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8872853,
+          33.38771261
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6627,
+		"price": 176777,
+        "street": "422 9th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1579141,
+          33.56077719
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6631,
+		"price": 145973,
+        "street": "130 Blake Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1722837,
+          33.49900906
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6633,
+		"price": 187977,
+        "street": "618 7th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2699675,
+          33.38675897
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6710,
+		"price": 144886,
+        "street": "665 9th Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1647329,
+          33.37429597
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6717,
+		"price": 118631,
+        "street": "37 3rd Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2670872,
+          33.4983347
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6739,
+		"price": 124279,
+        "street": "357 Turk St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9814768,
+          33.45057484
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6742,
+		"price": 121539,
+        "street": "727 California Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1926989,
+          33.44489725
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6749,
+		"price": 106639,
+        "street": "651 3rd Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9832839,
+          33.54161828
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6751,
+		"price": 139050,
+        "street": "232 Texas Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0202642,
+          33.38343283
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6753,
+		"price": 178309,
+        "street": "438 Texas Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1854
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.247379,
+          33.58442522
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6765,
+		"price": 123878,
+        "street": "351 8th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0817926,
+          33.54232423
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6767,
+		"price": 153838,
+        "street": "629 Post Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9457033,
+          33.45361766
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6793,
+		"price": 155620,
+        "street": "61 Pine Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2547969,
+          33.51901191
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6812,
+		"price": 118084,
+        "street": "464 Page Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1824
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1066588,
+          33.55326489
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6819,
+		"price": 151251,
+        "street": "97 1st Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9914995,
+          33.53756507
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6823,
+		"price": 122483,
+        "street": "124 California Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3583889,
+          33.56094957
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6830,
+		"price": 164090,
+        "street": "542 Page Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9176251,
+          33.4299694
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6917,
+		"price": 184611,
+        "street": "152 Page Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1107165,
+          33.36583047
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6929,
+		"price": 198217,
+        "street": "435 Texas Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1628371,
+          33.58812795
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6935,
+		"price": 160529,
+        "street": "565 Walnut Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9350732,
+          33.55363539
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6936,
+		"price": 147761,
+        "street": "520 Euclid Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9019825,
+          33.50945285
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6957,
+		"price": 105313,
+        "street": "583 Texas Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9969209,
+          33.54391772
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6961,
+		"price": 163240,
+        "street": "436 1st Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923503,
+          33.51918693
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 6992,
+		"price": 194955,
+        "street": "643 Sutter Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1238798,
+          33.59415408
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7027,
+		"price": 142748,
+        "street": "671 Sutter Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2261267,
+          33.48012472
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7042,
+		"price": 135399,
+        "street": "86 Blake St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1376388,
+          33.42898514
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7056,
+		"price": 159429,
+        "street": "260 2nd Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9522977,
+          33.46691445
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7073,
+		"price": 199359,
+        "street": "188 Franklin Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.211665,
+          33.42784047
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7084,
+		"price": 194589,
+        "street": "316 3rd Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1805581,
+          33.37213617
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7091,
+		"price": 102898,
+        "street": "158 6th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1942605,
+          33.41963231
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7101,
+		"price": 193202,
+        "street": "324 6th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0618185,
+          33.41927431
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7105,
+		"price": 133784,
+        "street": "34 Texas Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0544778,
+          33.56419161
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7144,
+		"price": 122899,
+        "street": "274 6th Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2212799,
+          33.55750216
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7160,
+		"price": 167013,
+        "street": "686 Sutter Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3223679,
+          33.59097875
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7169,
+		"price": 139680,
+        "street": "457 Mission Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0687289,
+          33.38419836
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7182,
+		"price": 133745,
+        "street": "171 Indiana Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1343521,
+          33.58917649
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7229,
+		"price": 159838,
+        "street": "288 Euclid Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0313947,
+          33.53176371
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7280,
+		"price": 161130,
+        "street": "598 3rd Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9113883,
+          33.46698137
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7283,
+		"price": 176776,
+        "street": "262 Turk Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.148048,
+          33.37741073
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7291,
+		"price": 175668,
+        "street": "432 Walnut St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1734
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0802634,
+          33.38967202
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7310,
+		"price": 126132,
+        "street": "764 Turk Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3064
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.045657,
+          33.44428768
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7325,
+		"price": 180979,
+        "street": "291 4th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8938739,
+          33.47547327
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7348,
+		"price": 163363,
+        "street": "735 Blake Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0493815,
+          33.5029722
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7382,
+		"price": 130258,
+        "street": "77 5th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1460
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2349455,
+          33.38200982
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7392,
+		"price": 133820,
+        "street": "525 4th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0049777,
+          33.55049633
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7409,
+		"price": 123237,
+        "street": "346 Bush Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2204532,
+          33.38631678
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7469,
+		"price": 198257,
+        "street": "497 3rd Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2617173,
+          33.52491145
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7477,
+		"price": 133830,
+        "street": "674 Bush Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3537609,
+          33.57723958
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7500,
+		"price": 166359,
+        "street": "134 Geary St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2194931,
+          33.44494695
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7539,
+		"price": 185297,
+        "street": "484 7th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1720
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2830632,
+          33.57809607
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7588,
+		"price": 135382,
+        "street": "729 Sutter Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2442337,
+          33.36571363
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7589,
+		"price": 146503,
+        "street": "13 Pine Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2887457,
+          33.57828562
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7592,
+		"price": 117358,
+        "street": "263 Sutter Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3479963,
+          33.43506879
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7607,
+		"price": 152543,
+        "street": "369 Bush Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0658243,
+          33.5817531
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7618,
+		"price": 199267,
+        "street": "215 Bush Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9324287,
+          33.58299747
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7648,
+		"price": 146289,
+        "street": "132 Post Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9685879,
+          33.55128174
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7659,
+		"price": 184107,
+        "street": "466 Post Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2179541,
+          33.48130476
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7684,
+		"price": 152627,
+        "street": "472 5th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8968504,
+          33.51788339
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7714,
+		"price": 166771,
+        "street": "92 3rd Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0901535,
+          33.53133655
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7724,
+		"price": 123095,
+        "street": "405 8th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2580324,
+          33.57763224
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7733,
+		"price": 140604,
+        "street": "50 Wall Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3015742,
+          33.47864237
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7792,
+		"price": 161218,
+        "street": "146 Pine Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0790551,
+          33.45219036
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7822,
+		"price": 104814,
+        "street": "184 3rd Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3348238,
+          33.39344989
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7830,
+		"price": 177273,
+        "street": "654 Indiana Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9724248,
+          33.57934347
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7833,
+		"price": 180301,
+        "street": "553 Pine Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1069571,
+          33.58720375
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7836,
+		"price": 176642,
+        "street": "10 Turk Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2942
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0913255,
+          33.51995791
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7936,
+		"price": 183477,
+        "street": "784 Sutter Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3515942,
+          33.57894396
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7954,
+		"price": 157786,
+        "street": "107 7th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1624031,
+          33.36643932
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7966,
+		"price": 191051,
+        "street": "74 Blake Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2264348,
+          33.38095309
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7978,
+		"price": 110462,
+        "street": "20 Post Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3064
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0353838,
+          33.54653794
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 7991,
+		"price": 125607,
+        "street": "243 3rd St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9396074,
+          33.49891391
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8006,
+		"price": 199162,
+        "street": "146 Wall Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3494041,
+          33.37162208
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8014,
+		"price": 124120,
+        "street": "652 Bush Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8789084,
+          33.4064629
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8026,
+		"price": 138617,
+        "street": "129 Turk Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2187129,
+          33.49803091
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8039,
+		"price": 109873,
+        "street": "471 Turk Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.355275,
+          33.41526488
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8060,
+		"price": 139447,
+        "street": "178 Post St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8787919,
+          33.4097222
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8079,
+		"price": 194585,
+        "street": "608 4th Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.119901,
+          33.39463253
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8080,
+		"price": 130223,
+        "street": "621 Geary Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9725161,
+          33.58323791
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8130,
+		"price": 109828,
+        "street": "547 Texas Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9877275,
+          33.40240621
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8138,
+		"price": 169877,
+        "street": "514 Walnut St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3254188,
+          33.49359201
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8141,
+		"price": 172831,
+        "street": "83 Euclid Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0010722,
+          33.57183787
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8163,
+		"price": 161600,
+        "street": "708 Wall Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2631521,
+          33.37385345
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8242,
+		"price": 100669,
+        "street": "544 Turk Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1228523,
+          33.53053719
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8254,
+		"price": 111009,
+        "street": "86 7th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2417021,
+          33.47047682
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8263,
+		"price": 138663,
+        "street": "233 Pine Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3613441,
+          33.36439849
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8275,
+		"price": 134977,
+        "street": "344 Pine Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3415498,
+          33.54198981
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8318,
+		"price": 120377,
+        "street": "374 Pine Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1030
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.981852,
+          33.38253278
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8322,
+		"price": 149685,
+        "street": "448 Bush Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2494824,
+          33.47318056
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8400,
+		"price": 159956,
+        "street": "508 7th Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1040988,
+          33.53641415
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8402,
+		"price": 102433,
+        "street": "738 Turk Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1492127,
+          33.58145099
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8407,
+		"price": 150047,
+        "street": "702 Bush Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2798
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0713813,
+          33.50083825
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8455,
+		"price": 107026,
+        "street": "673 6th Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2910
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2309353,
+          33.54637353
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8473,
+		"price": 161555,
+        "street": "293 Walnut Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9837572,
+          33.38538809
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8510,
+		"price": 196820,
+        "street": "139 Blake Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0400058,
+          33.52821004
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8511,
+		"price": 160406,
+        "street": "737 Geary Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1467665,
+          33.4882197
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8585,
+		"price": 102653,
+        "street": "618 2nd Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1933005,
+          33.54707553
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8602,
+		"price": 151342,
+        "street": "102 Texas Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0105909,
+          33.53386977
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8690,
+		"price": 183134,
+        "street": "166 3rd Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0642177,
+          33.361903
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8712,
+		"price": 110907,
+        "street": "426 Wall Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9171225,
+          33.37176891
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8719,
+		"price": 116357,
+        "street": "137 Pine Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3224123,
+          33.58463106
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8728,
+		"price": 138642,
+        "street": "674 Blake Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3608776,
+          33.47353049
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8770,
+		"price": 175883,
+        "street": "634 7th Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9830318,
+          33.47971638
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8789,
+		"price": 189197,
+        "street": "372 Sutter Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3990
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1250752,
+          33.56547116
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8806,
+		"price": 159716,
+        "street": "508 Walnut Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0768346,
+          33.50077531
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8844,
+		"price": 163457,
+        "street": "116 Mission Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2128971,
+          33.43524207
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8902,
+		"price": 193063,
+        "street": "99 5th Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0283152,
+          33.48125075
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8943,
+		"price": 111055,
+        "street": "798 Bush Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9562876,
+          33.49011545
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 8972,
+		"price": 189765,
+        "street": "279 Blake Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.080395,
+          33.46826862
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9020,
+		"price": 118964,
+        "street": "63 Page Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3336867,
+          33.48559087
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9074,
+		"price": 102252,
+        "street": "421 4th St",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2154836,
+          33.49051964
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9096,
+		"price": 192559,
+        "street": "46 Texas Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2930
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0356715,
+          33.41677944
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9107,
+		"price": 162219,
+        "street": "450 Post Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3193224,
+          33.5267504
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9126,
+		"price": 125468,
+        "street": "223 1st Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1640313,
+          33.38632113
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9152,
+		"price": 174016,
+        "street": "660 7th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0395278,
+          33.38620335
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9177,
+		"price": 196731,
+        "street": "190 2nd Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3831
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9421423,
+          33.45987686
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9199,
+		"price": 108103,
+        "street": "491 Post Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2067
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1033246,
+          33.45004314
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9253,
+		"price": 139829,
+        "street": "331 Blake Dv",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9204824,
+          33.3672449
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9254,
+		"price": 121661,
+        "street": "45 2nd Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9877287,
+          33.48036951
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9312,
+		"price": 132195,
+        "street": "751 8th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0493772,
+          33.5257467
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9315,
+		"price": 147455,
+        "street": "689 Blake Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9540352,
+          33.41163534
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9359,
+		"price": 168959,
+        "street": "531 4th Wl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1854
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9111754,
+          33.53727256
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9375,
+		"price": 192481,
+        "street": "322 Page Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2386517,
+          33.49114055
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9391,
+		"price": 114632,
+        "street": "657 Sutter Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1470404,
+          33.40116414
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9435,
+		"price": 103607,
+        "street": "170 6th Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9800508,
+          33.36157255
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9465,
+		"price": 125807,
+        "street": "664 6th Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2438323,
+          33.45355126
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9491,
+		"price": 132818,
+        "street": "563 3rd Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2292688,
+          33.3983896
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9511,
+		"price": 124264,
+        "street": "341 8th Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.953798,
+          33.36142397
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9540,
+		"price": 180360,
+        "street": "651 Walnut Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88744,
+          33.47620136
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9557,
+		"price": 123402,
+        "street": "500 Geary Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1664874,
+          33.48743907
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9616,
+		"price": 133423,
+        "street": "253 8th Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2084091,
+          33.39237593
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9623,
+		"price": 137554,
+        "street": "223 Sutter Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9016513,
+          33.44955722
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9640,
+		"price": 123588,
+        "street": "517 Indiana Blvd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2824409,
+          33.47143008
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9672,
+		"price": 133955,
+        "street": "81 Sutter Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2506135,
+          33.38635932
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9701,
+		"price": 199560,
+        "street": "769 Sutter Pl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9672312,
+          33.37967312
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9809,
+		"price": 142531,
+        "street": "670 Walnut Cir",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9049798,
+          33.46407489
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9813,
+		"price": 156659,
+        "street": "48 Blake Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9599415,
+          33.46803537
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9850,
+		"price": 160883,
+        "street": "339 8th Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1965608,
+          33.56414289
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9857,
+		"price": 157174,
+        "street": "80 Sutter Vis",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 1827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1679327,
+          33.39103636
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9887,
+		"price": 182307,
+        "street": "704 Wall Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0417086,
+          33.55774275
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9888,
+		"price": 169646,
+        "street": "676 9th Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.054784,
+          33.43972261
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9902,
+		"price": 178980,
+        "street": "321 Pine Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1476723,
+          33.57273009
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9939,
+		"price": 133964,
+        "street": "480 Walnut Trl",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2595121,
+          33.39242316
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9964,
+		"price": 108251,
+        "street": "110 1st Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2488
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3284566,
+          33.54174778
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9967,
+		"price": 150074,
+        "street": "622 Texas Rd",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 2060
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.885317,
+          33.4604285
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9985,
+		"price": 109597,
+        "street": "453 8th Ave",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1940936,
+          33.38193351
+        ]
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": 9999,
+		"price": 167044,
+        "street": "192 Page Way",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sq_ft": 3062
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1076966,
+          33.39228217
+        ]
+      }
+    }
+	]
+}
+	

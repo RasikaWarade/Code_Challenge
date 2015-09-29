@@ -8,20 +8,18 @@
    python challenge.py listings.csv
 
 2. Access the API as below :
+
+   URL http://localhost:8080/
+
    GET /listings
 
   It accepts the below parameters to filter data of listings:
   
   min_price: The minimum listing price in dollars.
-  
   max_price: The maximum listing price in dollars.
-  
   min_bed: The minimum number of bedrooms.
-  
   max_bed: The maximum number of bedrooms.
-  
   min_bath: The minimum number of bathrooms.
-  
   max_bath: The maximum number of bathrooms.
   
 3. It accepts any combination of parameters
